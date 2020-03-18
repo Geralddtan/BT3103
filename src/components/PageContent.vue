@@ -14,7 +14,7 @@
 <script>
 import ButtonComponent from './ButtonComponent.vue'
 import database from '../firebase.js'
-export default {
+export default {  
   data(){
     return{
         itemsList: []
